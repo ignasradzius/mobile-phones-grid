@@ -1,5 +1,3 @@
-# telia-tech-task
-
 ## Project setup
 ```
 npm install
@@ -25,5 +23,5 @@ npm run test:unit
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Demo
+https://spontaneous-marzipan-1c6c4d.netlify.app/
